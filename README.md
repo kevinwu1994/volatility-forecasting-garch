@@ -42,7 +42,7 @@ These models capture:
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Stylized Facts Analysis
 - Log returns and squared returns
@@ -68,7 +68,7 @@ These models capture:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - GARCH(1,1) performs best in out-of-sample forecasting
 - Asymmetric models (EGARCH, GJR-GARCH) capture leverage effects
