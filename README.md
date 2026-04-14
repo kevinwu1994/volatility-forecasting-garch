@@ -4,7 +4,7 @@ This project implements and compares volatility forecasting models from the GARC
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The goal of this project is to model and forecast financial market volatility using time series techniques and evaluate their performance in risk management applications.
 
@@ -17,7 +17,7 @@ We focus on:
 
 ---
 
-## 📈 Data
+## Data
 
 - Assets: SPY, QQQ, DIA (U.S. equity ETFs)
 - Frequency: Daily returns
@@ -26,7 +26,7 @@ We focus on:
 
 ---
 
-## 🧠 Models
+## Models
 
 We implement and compare the following models:
 
@@ -77,4 +77,4 @@ These models capture:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
