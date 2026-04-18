@@ -97,15 +97,12 @@ The results highlight that, in practice, model simplicity and out-of-sample robu
 
 ## Project Structure
 
-
-volatility-forecasting-garch/
-│
-├── src/
-├── results/
-├── report/
-├── slides/
-├── README.md
-└── LICENSE
+- `src/` — Model implementation and analysis code  
+- `results/` — Figures, tables, and model outputs  
+- `report/` — Final project report (PDF)  
+- `slides/` — Presentation slides (PowerPoint)  
+- `README.md` — Project overview  
+- `LICENSE` — License information  
 ---
 
 ## How to Use
