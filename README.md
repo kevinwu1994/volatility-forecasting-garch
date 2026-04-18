@@ -100,13 +100,12 @@ The results highlight that, in practice, model simplicity and out-of-sample robu
 
 volatility-forecasting-garch/
 │
-├── src/ # Model implementation and analysis code
-├── results/ # Figures, tables, and model outputs
-├── report/ # Final project report (PDF)
-├── slides/ # Presentation slides (PowerPoint)
-├── README.md # Project overview
-└── LICENSE # License information
-
+├── src/
+├── results/
+├── report/
+├── slides/
+├── README.md
+└── LICENSE
 ---
 
 ## How to Use
