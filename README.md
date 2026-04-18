@@ -96,6 +96,8 @@ The results highlight that, in practice, model simplicity and out-of-sample robu
 ---
 
 ## Project Structure
+
+
 volatility-forecasting-garch/
 │
 ├── src/ # Model implementation and analysis code
@@ -104,7 +106,6 @@ volatility-forecasting-garch/
 ├── slides/ # Presentation slides (PowerPoint)
 ├── README.md # Project overview
 └── LICENSE # License information
-...
 
 ---
 
