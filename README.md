@@ -2,6 +2,10 @@
 
 This project studies and compares volatility forecasting models from the GARCH family, with applications to Value-at-Risk (VaR) and risk management.
 
+## Example: VaR Backtesting (QQQ)
+
+![VaR Backtest](results/var_backtest_qqq.png)
+
 ---
 
 ## Project Overview
